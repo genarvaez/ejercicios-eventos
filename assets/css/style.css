@@ -1,0 +1,18 @@
+body{
+	background-color: violet;
+	color: white;
+	font-family: 'Julius Sans One', sans-serif;
+}
+
+p{
+	background-color: #CEF6F5;
+	color: #484848;
+}
+span{
+	background-color: #F2F5A9;
+	color: #484848;
+}
+#demo{ 
+	background-color: #F5A9BC;
+	border-radius: 15px;
+}
